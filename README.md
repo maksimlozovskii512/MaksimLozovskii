@@ -5,3 +5,4 @@
 - 🌱 Currently learning CI/CD , Automated Testing, REACT JS, C# and Software development stategies
 - 📫 How to reach me: lozovskiimaksim@gmail.com
 - 📝 Check out my to-do list at maksimlozovskii.github.io
+- 🌐 Check out my hosted personal projects at maksimlozovskii.pythonanywhere.com
