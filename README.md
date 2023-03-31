@@ -1,8 +1,7 @@
 ### 👋 Hello there 👋 
 
-- 🔭 Currently working on QLAB projects
+- 🔭 Working on QLAB projects
 - 🎓 Studying Computer Science at Queen's University Belfast
-- 🌱 Currently learning jenkins CI/CD, Automated Testing with Jest, React JS & Angular JS and Cloud serverless functions
+- 🌱 Currently learning Cloud serverless functions / Cloud security and basics of machine learning with sklearn
 - 📫 How to reach me: lozovskiimaksim@gmail.com
-- 📝 Check out my to-do list at maksimlozovskii.github.io
-- 🌐 Check out my hosted personal projects at maksimlozovskii.pythonanywhere.com
+- 🌐 Check out my personal projects at maksimlozovskii.pythonanywhere.com
